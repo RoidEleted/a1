@@ -1,1 +1,1 @@
-https://extensions.turbowarp.org/fetch.js
+https://studio.penguinmod.com/editor.html
