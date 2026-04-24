@@ -1,1 +1,1 @@
-https://studio.penguinmod.com/editor.html
+https://raw.githubusercontent.com/FritzCohen/LumiOS/refs/heads/main/index.html
