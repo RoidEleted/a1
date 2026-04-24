@@ -1,1 +1,1 @@
-https://scratch.mit.edu/
+https://extensions.turbowarp.org/fetch.js
