@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/FritzCohen/LumiOS/refs/heads/main/index.html
+["1", "hi"]
